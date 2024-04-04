@@ -1,4 +1,4 @@
-Customer Grievance Portal.
+#Customer Grievance Portal.
 
 Overview:
 The Customer Grievance Portal is a web application built using React.js, React Router, and Bootstrap. It serves as a platform for customers to submit grievances, view existing complaints, learn about the grievance redressal process, and access information about the organization.
